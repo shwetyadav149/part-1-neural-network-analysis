@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Neurons,Activation,Epochs,Accuracy
+Model 1,1,16,relu,50,0.82
+Model 2,2,"32,16",relu,100,0.86
+Model 3,2,"64,32",tanh,100,0.84
